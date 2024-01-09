@@ -1,1 +1,1 @@
-# Guess-the-correct-number
+Computer will generate a random numberin the range of 1 to 100. The player attempts to guess the number. After each guess, the computer shows either “Higher”, “Lower” or “Correct!” depending on whether the computer generated number is higher, lower or equal to the guess. Once the user got the correct number , it displays correct answer with the number of attempts the user takes to guess the correct number.
